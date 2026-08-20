@@ -1,0 +1,11 @@
+{
+  "name": "FengLanSVG",
+  "badgeLabel": "FL",
+  "signingKey": "",
+  "contact": {
+    "website": "https://github.com/FengLanSVG/project"
+  },
+  "extensionList": {
+    "extensions": []
+  }
+}
