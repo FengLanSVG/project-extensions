@@ -1,0 +1,62 @@
+{
+  "eu.kanade.tachiyomi.extension.zh.baozimanhua": {
+    "apk": {
+      "name": "tachiyomi-zh.baozimanhua-v1.4.28.apk",
+      "sha256": "f1555c07ad2094a049c85090722bc57df1e6b264ee4767ab72937d2cd51a577b"
+    },
+    "jar": {
+      "name": "tachiyomi-zh.baozimanhua-v1.4.28.jar",
+      "sha256": "821efaa7e01316aa5f995dd73f372aad9e35941a797b3ad6956a2a1e797af3fb"
+    }
+  },
+  "eu.kanade.tachiyomi.extension.zh.baozimhorg": {
+    "apk": {
+      "name": "tachiyomi-zh.baozimhorg-v1.4.36.apk",
+      "sha256": "5c6428f97577bab36b5aa5c0a2f5332f11b1a581ed0b2841b021f1e7bd5110fc"
+    },
+    "jar": {
+      "name": "tachiyomi-zh.baozimhorg-v1.4.36.jar",
+      "sha256": "4017eca5cc31c941e4fcf4a381ae918d2ac436f07f62ea241d2ea66d7c28124c"
+    }
+  },
+  "eu.kanade.tachiyomi.extension.zh.bilimanga": {
+    "apk": {
+      "name": "tachiyomi-zh.bilimanga-v1.6.13.apk",
+      "sha256": "3a384abd263f1426260cee8cadcbd3040f5a44f8d3d88cafbd87f5e2b6887f02"
+    },
+    "jar": {
+      "name": "tachiyomi-zh.bilimanga-v1.6.13.jar",
+      "sha256": "21d84f87122ab062d500b164dbf00949e4a586eb0ccc600e165f761015e4ae86"
+    }
+  },
+  "eu.kanade.tachiyomi.extension.zh.kuaikanmanhua": {
+    "apk": {
+      "name": "tachiyomi-zh.kuaikanmanhua-v1.4.13.apk",
+      "sha256": "867cbb0e063a27205ed414fb509e13f490830a0a08ecd91252179619e6a20aff"
+    },
+    "jar": {
+      "name": "tachiyomi-zh.kuaikanmanhua-v1.4.13.jar",
+      "sha256": "0e50d90270681726ea5f577850cb459283bbf78cdb5e7126373196762b55c3f3"
+    }
+  },
+  "eu.kanade.tachiyomi.extension.zh.manhuagui": {
+    "apk": {
+      "name": "tachiyomi-zh.manhuagui-v1.4.28.apk",
+      "sha256": "e6798461dee8e161f31e4d9c1cacb10214584497754fa4118dcf28c527850ee1"
+    },
+    "jar": {
+      "name": "tachiyomi-zh.manhuagui-v1.4.28.jar",
+      "sha256": "99e26866ba67b6c46dfc6cab30c4f5391cc8277bf59f38b6952b567fa29ac0a2"
+    }
+  },
+  "eu.kanade.tachiyomi.extension.zh.zaimanhua": {
+    "apk": {
+      "name": "tachiyomi-zh.zaimanhua-v1.4.19.apk",
+      "sha256": "ca5037fe44ef24fee42ec3ada82674a7eed0734eecad43a40e214aa5017d6c45"
+    },
+    "jar": {
+      "name": "tachiyomi-zh.zaimanhua-v1.4.19.jar",
+      "sha256": "50db0dabb5ab2da8a91764cad4b2e377b4885740da13c0353f5a1e048410f7b4"
+    }
+  }
+}

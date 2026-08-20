@@ -1,11 +1,168 @@
 {
   "name": "FengLanSVG",
   "badgeLabel": "FL",
-  "signingKey": "",
   "contact": {
     "website": "https://github.com/FengLanSVG/project"
   },
   "extensionList": {
-    "extensions": []
+    "extensions": [
+      {
+        "name": "Baozi Manhua",
+        "packageName": "eu.kanade.tachiyomi.extension.zh.baozimanhua",
+        "resources": {
+          "apkUrl": "https://github.com/FengLanSVG/project-extensions/releases/download/8d960af/tachiyomi-zh.baozimanhua-v1.4.28.apk",
+          "iconUrl": "https://raw.githubusercontent.com/FengLanSVG/project-extensions/main/src/zh/baozimanhua/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/FengLanSVG/project-extensions/releases/download/8d960af/tachiyomi-zh.baozimanhua-v1.4.28.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "28",
+        "versionName": "1.4.28",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "5724751873601868259",
+            "name": "\u5305\u5b50\u6f2b\u753b",
+            "language": "zh",
+            "homeUrl": "https://cn.baozimh.com",
+            "mirrorUrls": [
+              "https://cn.baozimh.com",
+              "https://tw.baozimh.com",
+              "https://www.baozimh.com",
+              "https://cn.webmota.com",
+              "https://tw.webmota.com",
+              "https://www.webmota.com",
+              "https://cn.kukuc.co",
+              "https://tw.kukuc.co",
+              "https://www.kukuc.co",
+              "https://cn.twmanga.com",
+              "https://tw.twmanga.com",
+              "https://www.twmanga.com",
+              "https://cn.dinnerku.com",
+              "https://tw.dinnerku.com",
+              "https://www.dinnerku.com"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "GoDa",
+        "packageName": "eu.kanade.tachiyomi.extension.zh.baozimhorg",
+        "resources": {
+          "apkUrl": "https://github.com/FengLanSVG/project-extensions/releases/download/8d960af/tachiyomi-zh.baozimhorg-v1.4.36.apk",
+          "iconUrl": "https://raw.githubusercontent.com/FengLanSVG/project-extensions/main/lib-multisrc/goda/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/FengLanSVG/project-extensions/releases/download/8d960af/tachiyomi-zh.baozimhorg-v1.4.36.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "36",
+        "versionName": "1.4.36",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "774030471139699415",
+            "name": "GoDa\u6f2b\u753b",
+            "language": "zh",
+            "homeUrl": "https://baozimh.org",
+            "mirrorUrls": [
+              "https://baozimh.org",
+              "https://godamh.com",
+              "https://m.baozimh.one",
+              "https://bzmh.org",
+              "https://g-mh.org",
+              "https://m.g-mh.org"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "BiliManga",
+        "packageName": "eu.kanade.tachiyomi.extension.zh.bilimanga",
+        "resources": {
+          "apkUrl": "https://github.com/FengLanSVG/project-extensions/releases/download/8d960af/tachiyomi-zh.bilimanga-v1.6.13.apk",
+          "iconUrl": "https://raw.githubusercontent.com/FengLanSVG/project-extensions/main/src/zh/bilimanga/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/FengLanSVG/project-extensions/releases/download/8d960af/tachiyomi-zh.bilimanga-v1.6.13.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "13",
+        "versionName": "1.6.13",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "7289707411592168382",
+            "name": "\u55f6\u54e9\u6f2b\u756b",
+            "language": "zh",
+            "homeUrl": "https://www.bilimanga.net"
+          }
+        ]
+      },
+      {
+        "name": "Kuaikanmanhua",
+        "packageName": "eu.kanade.tachiyomi.extension.zh.kuaikanmanhua",
+        "resources": {
+          "apkUrl": "https://github.com/FengLanSVG/project-extensions/releases/download/8d960af/tachiyomi-zh.kuaikanmanhua-v1.4.13.apk",
+          "iconUrl": "https://raw.githubusercontent.com/FengLanSVG/project-extensions/main/src/zh/kuaikanmanhua/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/FengLanSVG/project-extensions/releases/download/8d960af/tachiyomi-zh.kuaikanmanhua-v1.4.13.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "13",
+        "versionName": "1.4.13",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "8099870292642776005",
+            "name": "\u5feb\u770b\u6f2b\u753b",
+            "language": "zh-Hans",
+            "homeUrl": "https://www.kuaikanmanhua.com"
+          }
+        ]
+      },
+      {
+        "name": "ManHuaGui",
+        "packageName": "eu.kanade.tachiyomi.extension.zh.manhuagui",
+        "resources": {
+          "apkUrl": "https://github.com/FengLanSVG/project-extensions/releases/download/8d960af/tachiyomi-zh.manhuagui-v1.4.28.apk",
+          "iconUrl": "https://raw.githubusercontent.com/FengLanSVG/project-extensions/main/src/zh/manhuagui/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/FengLanSVG/project-extensions/releases/download/8d960af/tachiyomi-zh.manhuagui-v1.4.28.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "28",
+        "versionName": "1.4.28",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "7057750772596492765",
+            "name": "\u6f2b\u753b\u67dc",
+            "language": "zh",
+            "homeUrl": "https://www.manhuagui.com",
+            "mirrorUrls": [
+              "https://www.manhuagui.com",
+              "https://tw.manhuagui.com",
+              "https://www.mhgui.com",
+              "https://tw.mhgui.com"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Zaimanhua",
+        "packageName": "eu.kanade.tachiyomi.extension.zh.zaimanhua",
+        "resources": {
+          "apkUrl": "https://github.com/FengLanSVG/project-extensions/releases/download/8d960af/tachiyomi-zh.zaimanhua-v1.4.19.apk",
+          "iconUrl": "https://raw.githubusercontent.com/FengLanSVG/project-extensions/main/src/zh/zaimanhua/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/FengLanSVG/project-extensions/releases/download/8d960af/tachiyomi-zh.zaimanhua-v1.4.19.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "19",
+        "versionName": "1.4.19",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "524579092615598717",
+            "name": "\u518d\u6f2b\u753b",
+            "language": "zh",
+            "homeUrl": "https://manhua.zaimanhua.com"
+          }
+        ]
+      }
+    ]
   }
 }
